@@ -20,4 +20,4 @@ Perfect for beginners learning **game logic, loops, and condition checking**.
 1. Make sure you have **Python 3** installed.  
 2. Download the code:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/tic-tac-toe-python.git
+   git clone https://github.com/Rajendra1joshi/tic-tac-toe-python.git
